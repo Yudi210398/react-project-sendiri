@@ -1,0 +1,14 @@
+.main-content-add {
+  margin: auto;
+  margin-top: 10vh;
+  width: 50%;
+  background-color: rgb(188, 219, 196);
+  padding: 20px;
+  border-radius: 20px;
+  text-transform: uppercase;
+}
+
+button {
+  margin-top: 25px;
+  margin-left: 20px;
+}
